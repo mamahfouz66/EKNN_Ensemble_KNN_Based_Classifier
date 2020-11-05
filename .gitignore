@@ -1,0 +1,12 @@
+*~
+\.DS_STORE
+build/
+dist/
+*egg-info*
+*__pycache__/
+*.py[cod]
+*eggs*
+*\.png
+
+# Project exclude paths
+/venv/
